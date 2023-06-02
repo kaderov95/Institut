@@ -1,3 +1,0 @@
-/Users/dmitriy/Documents/Institut/2 курс/Современные языки программирования Чагаева/C++/Современные_языки_программирования/6/cmake-build-debug/CMakeFiles/6.dir
-/Users/dmitriy/Documents/Institut/2 курс/Современные языки программирования Чагаева/C++/Современные_языки_программирования/6/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/dmitriy/Documents/Institut/2 курс/Современные языки программирования Чагаева/C++/Современные_языки_программирования/6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
