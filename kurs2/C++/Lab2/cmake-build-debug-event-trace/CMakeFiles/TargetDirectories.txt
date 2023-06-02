@@ -1,0 +1,3 @@
+/Users/dmitriy/Documents/Institut/2 курс/Современные языки программирования Чагаева/C++/Lab2/cmake-build-debug-event-trace/CMakeFiles/Lab2.dir
+/Users/dmitriy/Documents/Institut/2 курс/Современные языки программирования Чагаева/C++/Lab2/cmake-build-debug-event-trace/CMakeFiles/edit_cache.dir
+/Users/dmitriy/Documents/Institut/2 курс/Современные языки программирования Чагаева/C++/Lab2/cmake-build-debug-event-trace/CMakeFiles/rebuild_cache.dir
